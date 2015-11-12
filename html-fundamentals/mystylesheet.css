@@ -1,4 +1,4 @@
-//css style sheet
+/* Hi check out my CSS styling that I've played around with below! */
 
 
 body {
@@ -22,4 +22,10 @@ h1 {
 
 p {
     border-style: solid;
+    color: red;
+    text-align: center;
+
+.dawn {
+    text-align: right;
+    background-color: purple;
 }
