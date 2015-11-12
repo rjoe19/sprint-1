@@ -11,13 +11,15 @@ h1 {
     font-size: 35px;
 }
 
-article.one {
+#one {
     border-style: solid;
     border-width: 2px 10px 4px 25px;
 }
-
-article.two {
+#two {
     border-style: solid;
     border-width: 10px;
 }
 
+p {
+    border-style: solid;
+}
