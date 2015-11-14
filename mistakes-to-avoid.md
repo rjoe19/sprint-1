@@ -33,7 +33,18 @@ summary of notes:
       - animation avoidance
       - pop-up purges
 
+8. Violating Design Conventions
+- consistency is an essential usability principles as users don't have to worry about what will happen.
+- Jakob's Law of the Web User Experience states that "users spend most of their time on other websites."
+  (i.e. this forms standard convention)
 
+9) Opening New Browser Windows
+ - opening multiple windows pollutes the screen.
+ - Links that don't behave as expected undermine users' understanding of their own system
+
+10. Not Answering Users' Questions
+- users on a website are goal driven: The ultimate failure of a website is to fail to provide the information users are looking for.
+- worst example is avoiding listing price of product/services.
 
 
 
