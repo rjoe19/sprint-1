@@ -19,31 +19,32 @@ summary of notes:
 - CSS allows the change font size button to be disabled (95% of the time, fixed font sizes are tiny and reduces readability for users of 40.)
 - Let the user resize text; allow font to be shown in relative terms.
 
-6. Page Titles With Low Search Engine Visibility
+6) Page titles with low search engine visibility
 - Search is the primary method of users finding websites.
 - title is main way for users to locate specific pages.
 - contained within HTML <title> tag
 - used as default entry to favourites when bookmarking a page, so be careful with starting with "the" for instance.
 - for pages other then homepage, use keywords pertinent to what the page is about.
 
-7. Anything That Looks Like an Advertisement
+7) anything that looks like an advertisement
+
 - Be aware of "selective attention" - anything that looks like an add will be automatically avoided.
 -follow these rules:
-      - banner blindness
-      - animation avoidance
-      - pop-up purges
+     -banner blindness
+     -animation avoidance
+     -pop up purges.
 
-8. Violating Design Conventions
+8) violating design conventions
 - consistency is an essential usability principles as users don't have to worry about what will happen.
 - Jakob's Law of the Web User Experience states that "users spend most of their time on other websites."
   (i.e. this forms standard convention)
 
-9) Opening New Browser Windows
+9) opening new browser windows
  - opening multiple windows pollutes the screen.
  - Links that don't behave as expected undermine users' understanding of their own system
 
-10. Not Answering Users' Questions
-- users on a website are goal driven: The ultimate failure of a website is to fail to provide the information users are looking for.
+10) not answering users questions
+- users on a website are goal driven:The ultimate failure of a website is to fail to provide the information users are looking for.
 - worst example is avoiding listing price of product/services.
 
 
