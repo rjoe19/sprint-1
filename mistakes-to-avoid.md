@@ -22,7 +22,7 @@ summary of notes:
 6) Page titles with low search engine visibility
 - Search is the primary method of users finding websites.
 - title is main way for users to locate specific pages.
-- contained within HTML <title> tag
+- contained within HTML title tag
 - used as default entry to favourites when bookmarking a page, so be careful with starting with "the" for instance.
 - for pages other then homepage, use keywords pertinent to what the page is about.
 
