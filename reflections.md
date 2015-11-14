@@ -13,7 +13,7 @@ reflections re emotional empathy
 
 
 
-2. Meet your "inner critic"
+2) meet your inner critic
 - I think we can be our own worst enemy.
 - Even during weekone I was freaking out with installation issues thinking I was stupid for not understanding git hub.
 - Ditto with coding.  I know coding isn't easy, but when I've done exercise on code academy and just stared blankly at the screen when stumped on a problem, the self doubt, inner critic can come out and I feel myself having to "cheat" by going on the forums and copying other ppls code etc and feel silly or inadequate doing that (even thats part of the learning process)
@@ -24,7 +24,7 @@ reflections re emotional empathy
 
 
 
-3. Learn about privilege
+3) Learn about privelage
 -my understanding re this video is that those who are ahead or progressing faster in this course then others should give a helping hand to the ones below them.  In a sense this ethos goes against the way we're brought in society that its a dog eat dog world, that we should be selfish, that if i help other people I wont be getting ahead myself and getting a competitive advantage.
   -further to the paragraph above, yes logically it makes sense that by working together we can achieve a better outcome (according to Game theory) - but this is so hard to do psychologically I guess.
 
